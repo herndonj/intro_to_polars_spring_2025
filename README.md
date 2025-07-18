@@ -1,4 +1,4 @@
-# Intro to Polars CDVS Workshop - January 16, 2025
+# Intro to Polars CDVS Workshop
 
 This repository contains the code and data files for the CDVS Intro to Polars
 Workshop presented on January 16, 2025.
